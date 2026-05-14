@@ -1,0 +1,11 @@
+---
+title: "Publications"
+format: html
+---
+
+# Rural Reconstruction Nepal
+- Document 1 Link
+- Document 2 Link
+
+# Miscellaneous 
+- Review with that person

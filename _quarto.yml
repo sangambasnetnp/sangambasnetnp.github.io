@@ -1,13 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "sangambasnetnp.github.io"
+  title: "Sangam Basnet"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
@@ -16,6 +20,6 @@ format:
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
-

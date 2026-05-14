@@ -1,11 +1,20 @@
 ---
-title: "sangambasnetnp.github.io"
+title: "Sangam Basnet"
+image: media/basnets_profile1.png
+2toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 13em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sangam-basnet-mph-78849b131/
+      icon: linkedin
+    - text: Email
+      href: sangambasnet03@gmail.com
+      icon: envelope
 ---
 
-This is a Quarto website.
+## About me
+I am currently a public health expert at Rural Reconstruction Nepal where I have been worked on some stuff, which has resulted in... I also have had worked on some monitoring and evaluation stuff... I have a strong background in qualitative methods... I have an interest in understanding how we can improve mental health through implementation science... yeah I'm pretty awesome.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
