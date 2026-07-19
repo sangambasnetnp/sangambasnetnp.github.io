@@ -4,8 +4,10 @@ format: html
 ---
 
 # Rural Reconstruction Nepal
-- Document 1 Link
-- Document 2 Link
 
-# Miscellaneous 
-- Review with that person
+-   Document 1 Link
+-   Document 2 Link
+
+# Miscellaneous
+
+[Learning, Unlearning, and Relearning for Social Transformation | सामाजिक रूपान्तरणमा ‘लर्न’, ‘अनलर्न’ र ‘रिलर्न’](https://www.annapurnapost.com/story/453510/)

@@ -1,8 +1,9 @@
 ---
-title: "Blog post 1"
+title: "Title"
 author: "Sangam Basnet"
 format: html
 ---
 
 # This is very cool
-Some text
+
+be cool and look cool and blah blah blah
